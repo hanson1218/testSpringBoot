@@ -1,0 +1,12 @@
+user:
+ name: lhs
+ age: 20
+ 
+server:
+  port: 8443
+  ssl:
+     enabled: true
+     keyStoreType: "PKCS12"
+     key-alias: "tomcat"
+     key-store: "classpath:keystore.p12"
+     key-store-password: "123456"
