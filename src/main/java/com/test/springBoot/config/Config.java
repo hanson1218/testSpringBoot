@@ -9,6 +9,11 @@ import org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletCon
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * http://blog.csdn.net/u012702547?viewmode=contents
+ * @author scli
+ *
+ */
 @Configuration
 public class Config {
 
